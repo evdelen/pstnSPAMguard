@@ -6,9 +6,9 @@ In my quest to reclaim phone serenity, I decided to harness the power of a Digit
 
 I use Voip.ms as my host for the phone number but this method should work on other self-managed VOIP providers too.
 
-The first step involved uploading audio files ready to be deployed by the IVR system. The welcoming voice on the opening recording politely states, "Thank you for calling this number. If you are a human, please press one." A simple instruction, but a human touch is required to proceed; otherwise, the call is assumed to be SPAM and disconnected.
+The first step involved uploading audio files ready to be deployed by the IVR system. The welcoming voice on the opening recording politely states, "Press one at any time if you're a human being. This is to block SPAM." An instruction that is direct, but a human is required to proceed; otherwise, the call is assumed to be SPAM and disconnected.
 
-Following this, a confirmation recording reassuringly utters, "Connecting your call," serving as confirmation that the correct button was indeed pressed.
+Following this, a confirmation recording is played: "Connecting your call."
 
 ## How To
 
